@@ -18,8 +18,8 @@
 
 ### Same rules as falkOSS
 
-- **Free licences** – AGPL-3.0-or-later; protocol library and companion apps under MIT; contributions with a DCO
-  sign-off, no CLA.
+- **Free licences** – AGPL-3.0-or-later; protocol library, companion apps and the API description under MIT; the
+  brand kit's artwork under CC BY-ND 4.0; contributions with a DCO sign-off, no CLA.
 - **Everything included** – one edition, every feature free; no paid tiers, nothing held back.
 - **No telemetry** – nothing phones home.
 - **In the open** – issues, plans, reviews and decisions happen in public.
