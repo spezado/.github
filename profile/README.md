@@ -28,7 +28,8 @@
 
 | Repository | What |
 |---|---|
-| [spezado](https://github.com/spezado/spezado) | the software, its design and the brand kit |
+| [spezado](https://github.com/spezado/spezado) | the software and its design |
+| [brand](https://github.com/spezado/brand) | the brand kit |
 | [website](https://github.com/spezado/website) | the landing page |
 
 <sub>spezado is free software and a project of <a href="https://falkoss.org">falkOSS</a> – Falcon Lake Open Source Software gUG (haftungsbeschränkt) i. G., from Falkensee.</sub>
