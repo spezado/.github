@@ -29,6 +29,7 @@
 | Repository | What |
 |---|---|
 | [spezado](https://github.com/spezado/spezado) | the software and its design |
+| [apps](https://github.com/spezado/apps) | the desktop and mobile apps |
 | [brand](https://github.com/spezado/brand) | the brand kit |
 | [website](https://github.com/spezado/website) | the landing page |
 
