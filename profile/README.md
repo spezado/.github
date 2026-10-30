@@ -16,6 +16,18 @@
 - **Law as modules** – Germany first, then Austria, Switzerland and further European countries.
 - **An open protocol** – data exchange follows [librotenado](https://github.com/librotenado), open for everyone.
 
+### The name
+
+```
+SPEZo + ADO → spezado
+```
+
+*spezado* is Esperanto. *Spezo* is turnover – money coming in and going out (*enspezo*, income; *elspezo*,
+expenditure) – and *-ado* makes it an ongoing action: spezado is the turnover that goes on all year, and what an
+accounting program keeps track of. Its protocol, librotenado, is Esperanto for bookkeeping. Esperanto belongs to no
+nation and takes its roots mostly from European languages – fitting for software that keeps books across Europe.
+Say *spe-ZA-do*.
+
 ### Same rules as falkOSS
 
 - **Free licences** – AGPL-3.0-or-later; protocol library, companion apps and the API description under MIT; the
